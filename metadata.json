@@ -1,0 +1,6 @@
+{
+  "name": "下次见面聊",
+  "description": "双人私人话题记录与实时共享空间",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
